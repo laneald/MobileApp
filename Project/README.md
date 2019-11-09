@@ -1,0 +1,2 @@
+# NutritionApp
+John Connor is a college student who wants to get on a good nutrition plan that is not so restrictive that he cannot eat what he wants, but is specific enough so he can get all his nutrients and not go overboard with the calories. He wants to lose 10 pounds. He would like a way to have access to meal recipe that would allow him to do so and be diverse enough so that he doesn’t always eat the same thing. He is also aspire to get into great shape so he recently started to workout and he would like to know how this would affect his nutrition.
