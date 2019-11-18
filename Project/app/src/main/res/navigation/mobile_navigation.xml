@@ -15,13 +15,13 @@
         android:id="@+id/nav_gallery"
         android:name="com.example.nutritionapp.ui.gallery.GalleryFragment"
         android:label="Personal Details"
-        tools:layout="@layout/fragment_gallery" />
+        tools:layout="@layout/fragment_userDetail" />
 
     <fragment
         android:id="@+id/nav_slideshow"
         android:name="com.example.nutritionapp.ui.slideshow.SlideshowFragment"
         android:label="Goals"
-        tools:layout="@layout/fragment_slideshow" />
+        tools:layout="@layout/fragment_goals" />
 
     <fragment
         android:id="@+id/nav_tools"
