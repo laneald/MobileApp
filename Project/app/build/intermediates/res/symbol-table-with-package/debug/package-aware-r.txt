@@ -32,6 +32,7 @@ animator mtrl_fab_transformation_sheet_expand_spec
 array feet
 array in
 array levelActivity
+array spinnerItems
 array timeType
 array timeUnit
 attr action
@@ -1037,6 +1038,7 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable ic_arrow_back_black_24dp
 drawable ic_dashboard
 drawable ic_goal
 drawable ic_launcher_background
@@ -1111,10 +1113,15 @@ id button
 id button2
 id buttonPanel
 id cancel_action
+id cancel_id
 id center
 id center_horizontal
 id center_vertical
 id chains
+id checkBox10
+id checkBox11
+id checkBox8
+id checkBox9
 id checkbox
 id chronometer
 id clip_horizontal
@@ -1124,6 +1131,7 @@ id container
 id content
 id contentPanel
 id coordinator
+id coordinatorLayout
 id currentWeight
 id currentWeightID
 id currentWeightLabel
@@ -1387,6 +1395,7 @@ layout design_navigation_menu_item
 layout design_text_input_password_icon
 layout fragment_goals
 layout fragment_home
+layout fragment_meals
 layout fragment_send
 layout fragment_share
 layout fragment_tools
@@ -1415,6 +1424,7 @@ layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 menu activity_main_drawer
 menu main
+menu menu_items
 mipmap ic_launcher
 mipmap ic_launcher_round
 navigation mobile_navigation
@@ -1688,6 +1698,7 @@ style Base_Widget_MaterialComponents_TextInputLayout
 style CardView
 style CardView_Dark
 style CardView_Light
+style MyCheckbox
 style Platform_AppCompat
 style Platform_AppCompat_Light
 style Platform_MaterialComponents
