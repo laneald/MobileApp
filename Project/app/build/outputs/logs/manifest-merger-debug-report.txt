@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:2:1-34:12
+ADDED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:2:1-64:12
 MERGED from [androidx.navigation:navigation-ui:2.0.0] C:\Users\Babloo\.gradle\caches\transforms-2\files-2.1\e8f8746ba99e36160295bc48cd753132\jetified-navigation-ui-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\Babloo\.gradle\caches\transforms-2\files-2.1\2946ca0ea6c89dab7d7d9fbc18e54292\material-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Babloo\.gradle\caches\transforms-2\files-2.1\906744c4ddcbc384c5a8d2d69414f8fa\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
@@ -44,25 +44,25 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Babloo\.gradle\c
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Babloo\.gradle\caches\transforms-2\files-2.1\8cf450d11667f9427b289f08c2115f5c\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\Babloo\.gradle\caches\transforms-2\files-2.1\d31a9dbc3f8404c541e987748c42963b\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Babloo\.gradle\caches\transforms-2\files-2.1\699bc310780b1730bce8fe271ffeca8b\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:2:1-64:12
 	package
 		ADDED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:3:5-39
 		INJECTED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml
 		INJECTED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml
-		ADDED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:2:1-34:12
+		ADDED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:2:1-64:12
 		INJECTED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml
-		ADDED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:2:1-34:12
+		ADDED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:2:1-64:12
 		INJECTED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:5:5-32:19
+ADDED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:5:5-62:19
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\Babloo\.gradle\caches\transforms-2\files-2.1\2946ca0ea6c89dab7d7d9fbc18e54292\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\Babloo\.gradle\caches\transforms-2\files-2.1\2946ca0ea6c89dab7d7d9fbc18e54292\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Babloo\.gradle\caches\transforms-2\files-2.1\508ac768b50158a079142e4dc4915061\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
@@ -97,16 +97,48 @@ ADDED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\
 		ADDED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:15:13-56
 	android:name
 		ADDED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:13:13-41
+activity#com.example.nutritionapp.InitialActivity
+ADDED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:22:9-31:20
+	android:label
+		ADDED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:24:13-45
+	android:theme
+		ADDED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:25:13-56
+	android:name
+		ADDED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:23:13-44
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:16:13-20:29
+ADDED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:26:13-30:29
 action#android.intent.action.MAIN
-ADDED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:17:17-69
+ADDED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:27:17-69
 	android:name
-		ADDED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:17:25-66
+		ADDED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:27:25-66
 category#android.intent.category.LAUNCHER
-ADDED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:19:17-77
+ADDED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:29:17-77
 	android:name
-		ADDED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:19:27-74
+		ADDED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:29:27-74
+activity#com.example.nutritionapp.UserDetailsActivity
+ADDED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:33:9-38:16
+	android:label
+		ADDED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:35:9-41
+	android:theme
+		ADDED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:36:9-52
+	android:name
+		ADDED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:34:9-44
+activity#com.example.nutritionapp.GoalActivity
+ADDED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:40:9-45:20
+	android:label
+		ADDED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:42:13-45
+	android:theme
+		ADDED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:43:13-56
+	android:name
+		ADDED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:41:13-41
+activity#com.example.nutritionapp.MealActivity
+ADDED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:46:9-49:20
+	android:label
+		ADDED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:47:13-45
+	android:theme
+		ADDED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:48:13-56
+	android:name
+		ADDED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml:46:19-47
 uses-sdk
 INJECTED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from F:\Reference\Masters\GSU - Semester 1\Mobile Application Development\github_project\mobile-app\Project\app\src\main\AndroidManifest.xml
