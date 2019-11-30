@@ -1120,6 +1120,7 @@ id coordinator
 id currentWeightID
 id custom
 id customPanel
+id dbInput
 id decor_content_parent
 id default_activity_button
 id design_bottom_sheet
@@ -1146,6 +1147,7 @@ id filled
 id fixed
 id forever
 id ghost_view
+id goalInput
 id goalWeightID
 id gone
 id group_divider
@@ -1263,6 +1265,7 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textView
+id textView2
 id text_gallery
 id text_input_password_toggle
 id text_send
@@ -1273,6 +1276,7 @@ id textinput_counter
 id textinput_error
 id textinput_helper_text
 id time
+id timeInput
 id timeLeftID
 id title
 id titleDividerNoCustom
@@ -1294,6 +1298,7 @@ id useLogo
 id view
 id view_offset_helper
 id visible
+id weightInput
 id withText
 id wrap
 id wrap_content
