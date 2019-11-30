@@ -10,6 +10,8 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.google.gson.Gson;
+
 public class InitialActivity extends AppCompatActivity {
     Button newUser, existingUser;
     public static final String MyPREFERENCES = "MyPrefs" ;
@@ -34,7 +36,11 @@ public class InitialActivity extends AppCompatActivity {
                             Toast.LENGTH_LONG).show();
                 }
                 else {
-
+                    Gson gson = new Gson();
+                    String json = sharedpreferences.getString("user_CurrentWeight", "");
+//                    UserInformation obj = gson.fromJson(json, UserInformation.class);
+                    Toast.makeText(InitialActivity.this, "User Information "
+                            + json, Toast.LENGTH_LONG).show();
                 }
             }
         });
