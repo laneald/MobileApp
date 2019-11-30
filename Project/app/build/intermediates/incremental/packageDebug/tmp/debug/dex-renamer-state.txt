@@ -1,7 +1,12 @@
+<<<<<<< HEAD
 #Sat Nov 30 17:19:18 EST 2019
 base.0=/Users/laneal/git_repo/mobile-app/Project/app/build/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
+=======
+#Fri Nov 29 23:35:15 EST 2019
+base.0=F\:\\Reference\\Masters\\GSU - Semester 1\\Mobile Application Development\\github_project\\mobile-app\\Project\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+>>>>>>> c2d203872ad6e3728443a420999f8cbd1875656a
 path.1=classes.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=/Users/laneal/git_repo/mobile-app/Project/app/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex
+base.1=F\:\\Reference\\Masters\\GSU - Semester 1\\Mobile Application Development\\github_project\\mobile-app\\Project\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
